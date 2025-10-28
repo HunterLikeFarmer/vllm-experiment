@@ -1,0 +1,1 @@
+srun --account=bcrn-delta-gpu --partition=gpuA40x4-interactive --nodes=1 --gpus-per-node=1 --tasks=1 --tasks-per-node=1 --cpus-per-task=8 --mem=20g --time 01:00:00 --pty bash
