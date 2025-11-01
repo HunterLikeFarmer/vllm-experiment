@@ -1,0 +1,5 @@
+Write a 3-sentence summary about the benefits and risks of large language models in customer support.
+Give 5 bullet points on how to optimize Python code for speed without changing algorithms.
+Explain in simple terms how attention works in transformers.
+Summarize the current best practices for prompt engineering to reduce hallucinations.
+Provide a concise overview of the Qwen 3 family and common use cases.
